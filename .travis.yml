@@ -21,4 +21,4 @@ after_success:
 - docker push pk001/multi-client
 - docker push pk001/multi-nginx
 - docker push pk001/multi-server
-- docker pk001/multi-worker
+- docker push pk001/multi-worker
